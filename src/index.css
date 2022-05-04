@@ -1,0 +1,19 @@
+@font-face {
+  font-family: "Lato";
+  src: url(../styles/fonts/lato/Lato-Regular.ttf);
+}
+
+body {
+  display: flex;
+  justify-content: center;
+
+  font-family: "Lato";
+  
+  margin: 0;
+  background: #E5E5E5;
+}
+
+.d-flex{
+  display: flex;
+  align-items: baseline;
+}

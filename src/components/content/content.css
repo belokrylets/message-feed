@@ -1,0 +1,56 @@
+.content {
+  height: 245px;
+}
+
+.time {
+  width: 56px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 9px;
+  margin: 0 10px;
+
+  text-align: center;
+
+  color: #808080;
+
+  background: #ffffff;
+}
+
+.text {
+  height: 65px;
+
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 22px;
+
+  letter-spacing: -0.035em;
+
+  color: #333333;
+
+  background: #ffffff;
+}
+
+.content button {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 10px;
+
+  padding: 0;
+
+  border: none;
+
+  color: #808080;
+
+  background: #ffffff;
+}
+
+.content img {
+  margin: 8px 0 0 0;
+  width: 259px;
+  height: 146px;
+
+  border-radius: 4px;
+}

@@ -1,0 +1,17 @@
+.footerNews {
+  display: flex;
+  height: 20px;
+}
+.tegs {
+  height: 10px;
+
+  margin: 0 0 0 8px;
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 10px;
+  /* identical to box height, or 82% */
+
+  color: #cdcdcd;
+}
